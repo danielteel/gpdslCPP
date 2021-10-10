@@ -144,7 +144,6 @@
     <ClCompile Include="ExternalDef.cpp" />
     <ClCompile Include="gpdslCPP.cpp" />
     <ClCompile Include="helpers.cpp" />
-    <ClCompile Include="Interpret.cpp" />
     <ClCompile Include="OpCode.cpp" />
     <ClCompile Include="OpObj.cpp" />
     <ClCompile Include="Parser.cpp" />
@@ -155,7 +154,6 @@
   <ItemGroup>
     <ClInclude Include="ExternalDef.h" />
     <ClInclude Include="helpers.h" />
-    <ClInclude Include="Interpret.h" />
     <ClInclude Include="OpCode.h" />
     <ClInclude Include="OpObj.h" />
     <ClInclude Include="Parser.h" />
